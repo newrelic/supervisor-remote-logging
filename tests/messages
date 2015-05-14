@@ -1,0 +1,8 @@
+#!/bin/bash -e
+# Generate a test message.
+
+for i in {0..3}
+do
+	echo Test $i
+	sleep 2
+done
