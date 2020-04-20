@@ -1,3 +1,5 @@
+[![Archived header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Archived.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#archived)
+
 ![Language: Python](https://img.shields.io/badge/language-Python-brightgreen.svg)
 [![License: MIT](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
 
